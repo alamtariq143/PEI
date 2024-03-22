@@ -6,7 +6,7 @@
 * customers.xlsx: Contains customer information (customer ID, customer name, address, country, segment, etc.).Customer.xlsx: [https://easyupload.io/11q2ga]
 
 #### Dependencies
-Databricks environment
-PySpark
-Required libraries (add any external libraries used)
+* Databricks environment
+* PySpark
+* Required libraries (add any external libraries used)
 	
